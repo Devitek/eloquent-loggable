@@ -1,6 +1,6 @@
 {
   "name": "devitek/eloquent-loggable",
-  "description": "Doctrine Loggable like for Eloquent (Laravel's ORM)",
+  "description": "Make your eloquent Model loggable",
   "license": "MIT",
   "keywords": [
     "eloquent",
