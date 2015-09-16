@@ -1,0 +1,24 @@
+{
+  "name": "devitek/eloquent-loggable",
+  "description": "Doctrine Loggable like for Eloquent (Laravel's ORM)",
+  "license": "MIT",
+  "keywords": [
+    "eloquent",
+    "loggable"
+  ],
+  "authors": [
+    {
+      "name": "Thomas Sieffert",
+      "email": "thomas.sieffert@devitek.fr"
+    }
+  ],
+  "require": {
+    "php": ">=5.4",
+    "laravel/framework": "5.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Devitek\\Laravel\\Eloquent\\Loggable\\": "src"
+    }
+  }
+}
