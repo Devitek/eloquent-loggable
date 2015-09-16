@@ -3,6 +3,7 @@
   "description": "Make your eloquent Model loggable",
   "license": "MIT",
   "keywords": [
+    "laravel",
     "eloquent",
     "loggable"
   ],
