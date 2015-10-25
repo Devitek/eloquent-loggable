@@ -51,10 +51,14 @@ class MyModel extends Model
         'another_field',
         'again_another_field',
     ];
+    
+    protected $reason = 'my_reason_field';
 }
 ```
 
 Now, each time you'll persist your model, all fields that are declared in the `versioned` property will be checked (if dirty) and then logged.
+
+The reason property indicates which field will be used to have a log message. It's not required, by default the log message will be empty. This field will be unset before persist so you can use a dynamic field.
 
 ## Get log entries
 
