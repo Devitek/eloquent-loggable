@@ -1,5 +1,12 @@
 # Make your eloquent Model loggable
 
+[![SensioLabsInsight](https://insight.sensiolabs.com/projects/311b9089-ef79-4208-a816-bcfa9cdc07bf/mini.png)](https://insight.sensiolabs.com/projects/311b9089-ef79-4208-a816-bcfa9cdc07bf) 
+[![Latest Stable Version](https://poser.pugx.org/devitek/eloquent-loggable/v/stable)](https://packagist.org/packages/devitek/eloquent-loggable)
+[![Total Downloads](https://poser.pugx.org/devitek/eloquent-loggable/downloads)](https://packagist.org/packages/devitek/eloquent-loggable)
+[![Latest Unstable Version](https://poser.pugx.org/devitek/eloquent-loggable/v/unstable)](https://packagist.org/packages/devitek/eloquent-loggable)
+[![License](https://poser.pugx.org/devitek/eloquent-loggable/license)](https://packagist.org/packages/devitek/eloquent-loggable)
+
+
 This package provide a simple way to make your Eloquent's model loggable. It works like the Gedmo/Loggable extension for doctrine.
 
 ## Installation

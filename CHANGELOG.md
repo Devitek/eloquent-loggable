@@ -5,6 +5,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 ## [0.1.1] - 2016-08-20
 ### Added
 - Changelog
+- Add badges
 
 ### Fixed
 - Remove specific files in .gitignore
